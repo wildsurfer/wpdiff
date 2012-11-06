@@ -55,4 +55,4 @@ Wordpress core was modified etc.
 ?>    
 ```
 
-
+© http://blog.nkuznetsov.me/2012/11/wpdiff-tool-for-wordpress-comparison.html
