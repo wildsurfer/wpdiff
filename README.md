@@ -1,7 +1,7 @@
 # WPDIFF tool
 
 This tool allows you to compare two installations of WordPress. Useful for malware detection, checking if original
-Wordpress source is modified etc. 
+Wordpress core was modified etc. 
 
 ## Features
 
