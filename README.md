@@ -1,4 +1,4 @@
-# WPDIFF tool
+# WPDIFF: diff wordpress tool
 
 This tool allows you to compare two installations of WordPress. Useful for malware detection, checking if original
 Wordpress core was modified etc. 
