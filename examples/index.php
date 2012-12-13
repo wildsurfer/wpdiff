@@ -11,10 +11,10 @@ require_once('WPDIFF/Wordpress/Probationer.php');
 require_once('WPDIFF/Differer.php');
 
 // Creating local wordpress object
+// Changing this line to your WP directory is enough to see how it works
 $wp_local = new WPDIFF_Wordpress_Probationer('/home/kuzma/workspace/tmp/data/32/home/www/dev12.artmyweb.com/docroot');
 
 // Creating original wordpress object that will be fetched from wordpress.org website.
-// Changing this line to your WP directory is enough to see how it works
 $wp_orig = new WPDIFF_Wordpress_Original($wp_local->getVersion());
 
 // Disabling themes and uploads directories
